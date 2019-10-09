@@ -1,8 +1,21 @@
-##Extraccion de requisitos
+## Extraccion de requisitos
 
 **Partes interesadas**
-1. Desarrollador
-2. Administrador
+* Desarrollador
+* Administrador
 
-**Datos que gestio0na el sistema**
+**Datos que gestiona el sistema**
+* Usuarios
+*  Nombre
+*  Apellidos
+*  Telefono
+*  Direccion Postal
+*  Fecha de nacimiento
+*  Tipo de paciente(Publico o Privado)
+* Cita
+*  Disponibilidad de fecha
+*  Disponibilidad de horas
+* Historial medico
+*  Anteriores visitas
+*  Tratamientos mandados anteriormente
 
