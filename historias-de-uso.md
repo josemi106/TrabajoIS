@@ -1,8 +1,10 @@
 **ID**:06	**Nombre**:Buscar usuario por nombre y apellido
+
 **Prioridad**:5		**Puntos estimados**:2	**Itineracion**:1
+
 **Responsable**: Jose Miguel Gomez
 
-**Descripcion**: 
+**Descripcion**:
 Como administrados quiero localizar los datos de un paciente para
 consultar su informacion y su historial medico
 
