@@ -34,5 +34,5 @@
 * Sistema operativo Linux
 * Interfaz CLI
 * Lenguaje de implementacion: C++
-* Almacenamientos 2T
+* Almacenamiento 2T
 
