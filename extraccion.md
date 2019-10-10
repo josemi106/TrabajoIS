@@ -5,17 +5,19 @@
 * Administrador
 
 **Datos que gestiona el sistema**
-* Usuarios
+* **Usuarios**
 *  Nombre
 *  Apellidos
 *  Telefono
 *  Direccion Postal
 *  Fecha de nacimiento
 *  Tipo de paciente(Publico o Privado)
-* Cita
+* **Cita**
 *  Disponibilidad de fecha
 *  Disponibilidad de horas
-* Historial medico
+* **Historial medico**
 *  Anteriores visitas
 *  Tratamientos mandados anteriormente
+*  Tiempo para terminar el tratamiento
+
 
